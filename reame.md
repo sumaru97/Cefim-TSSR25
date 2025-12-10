@@ -23,5 +23,5 @@ nano postinstalldebian.sh
 3. **Exécutez-le en une fois** :
     
 ```
-sudo ./postinstalldebian.sh
+./postinstalldebian.sh
 ```
