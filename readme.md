@@ -1,4 +1,4 @@
-### 🚀 Instructions d'Exécution
+### Instructions d'Exécution
 
 1. **Enregistrez le script** :
 
